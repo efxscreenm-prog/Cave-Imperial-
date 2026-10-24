@@ -1,0 +1,32 @@
+{
+ "name": "La Cave Impériale — Gestion",
+ "short_name": "Cave Impériale",
+ "description": "Gestion de stock, factures, personnel et caisse de La Cave Impériale",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#2b1d0e",
+ "theme_color": "#2b1d0e",
+ "lang": "fr",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
